@@ -1,0 +1,8 @@
+{
+  "translations": {
+    "author": "siol",
+    "parent_permlink": "test",
+    "permlink": "translations"
+  },
+  "api": "https://steemgroups.herokuapp.com/v1"
+}
